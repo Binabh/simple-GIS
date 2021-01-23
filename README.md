@@ -1,6 +1,6 @@
 # What is this?
 A simple tool written in Python to view, manipulate and convert geo-data.
-# What on useful does this tool do?
+# What useful does this tool do?
 Nothing much! UNLESS you are into:
 - viewing shapefiles
 - measuring distances between places in shapefiles
